@@ -1,0 +1,18 @@
+{
+  "id": 11085,
+  "fullname": "電工系 / DEE 陳劭謙",
+  "email": "jacky14343.ee06@g2.nctu.edu.tw",
+  "description": "",
+  "descriptionformat": 1,
+  "country": "TW",
+  "profileimageurlsmall": "https://e3.nycu.edu.tw/pluginfile.php/16770/user/icon/dcpc/f2?rev=1213314",
+  "profileimageurl": "https://e3.nycu.edu.tw/pluginfile.php/16770/user/icon/dcpc/f1?rev=1213314",
+  "roles": [
+    {
+      "roleid": 5,
+      "name": "{mlang zh_tw}學生{mlang}{mlang en}Student{mlang}",
+      "shortname": "student",
+      "sortorder": 0
+    }
+  ]
+}

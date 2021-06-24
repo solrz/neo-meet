@@ -1,0 +1,625 @@
+{
+  "courses": [
+    {
+      "id": 20248,
+      "fullname": "1091.1147.計算機網路概論(英文授課) Intro. to Computer Networks",
+      "shortname": "1091.1147",
+      "timemodified": 1591863211,
+      "assignments": [
+        {
+          "id": 29005,
+          "cmid": 119157,
+          "course": 20248,
+          "name": "Lab 0",
+          "nosubmissions": 0,
+          "submissiondrafts": 0,
+          "sendnotifications": 0,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1600790400,
+          "allowsubmissionsfromdate": 1599926400,
+          "grade": 100,
+          "timemodified": 1600004912,
+          "completionsubmit": 1,
+          "cutoffdate": 0,
+          "gradingduedate": 1601136000,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "revealidentities": 0,
+          "attemptreopenmethod": "manual",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "2147483648"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": ""
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            },
+            {
+              "plugin": "editpdf",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            }
+          ],
+          "intro": "",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": [
+            {
+              "filename": "lab0.pdf",
+              "filepath": "/",
+              "filesize": 704001,
+              "fileurl": "https://e3.nycu.edu.tw/webservice/pluginfile.php/674879/mod_assign/introattachment/0/lab0.pdf",
+              "timemodified": 1600004912,
+              "mimetype": "application/pdf",
+              "isexternalfile": false
+            }
+          ]
+        },
+        {
+          "id": 30021,
+          "cmid": 124435,
+          "course": 20248,
+          "name": "Lab1",
+          "nosubmissions": 0,
+          "submissiondrafts": 0,
+          "sendnotifications": 0,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1603468800,
+          "allowsubmissionsfromdate": 1601654400,
+          "grade": 100,
+          "timemodified": 1601711876,
+          "completionsubmit": 1,
+          "cutoffdate": 0,
+          "gradingduedate": 0,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "revealidentities": 0,
+          "attemptreopenmethod": "manual",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "2147483648"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": ""
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            },
+            {
+              "plugin": "editpdf",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            }
+          ],
+          "intro": "",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": [
+            {
+              "filename": "lab1.pdf",
+              "filepath": "/",
+              "filesize": 8424891,
+              "fileurl": "https://e3.nycu.edu.tw/webservice/pluginfile.php/700078/mod_assign/introattachment/0/lab1.pdf",
+              "timemodified": 1601711409,
+              "mimetype": "application/pdf",
+              "isexternalfile": false
+            }
+          ]
+        },
+        {
+          "id": 31158,
+          "cmid": 128237,
+          "course": 20248,
+          "name": "Homework 1",
+          "nosubmissions": 0,
+          "submissiondrafts": 0,
+          "sendnotifications": 0,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1604419200,
+          "allowsubmissionsfromdate": 1603382400,
+          "grade": 100,
+          "timemodified": 1604473756,
+          "completionsubmit": 1,
+          "cutoffdate": 1604455800,
+          "gradingduedate": 1604592000,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "revealidentities": 0,
+          "attemptreopenmethod": "manual",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "2147483648"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": ""
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            },
+            {
+              "plugin": "editpdf",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            }
+          ],
+          "intro": "<p>Ch1-3</p>",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": [
+            {
+              "filename": "hw1_ans.pdf",
+              "filepath": "/",
+              "filesize": 189202,
+              "fileurl": "https://e3.nycu.edu.tw/webservice/pluginfile.php/706879/mod_assign/introattachment/0/hw1_ans.pdf",
+              "timemodified": 1604473756,
+              "mimetype": "application/pdf",
+              "isexternalfile": false
+            },
+            {
+              "filename": "hw1.pdf",
+              "filepath": "/",
+              "filesize": 176803,
+              "fileurl": "https://e3.nycu.edu.tw/webservice/pluginfile.php/706879/mod_assign/introattachment/0/hw1.pdf",
+              "timemodified": 1603439088,
+              "mimetype": "application/pdf",
+              "isexternalfile": false
+            }
+          ]
+        },
+        {
+          "id": 32058,
+          "cmid": 131211,
+          "course": 20248,
+          "name": "Lab 2",
+          "nosubmissions": 0,
+          "submissiondrafts": 0,
+          "sendnotifications": 0,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1606838400,
+          "allowsubmissionsfromdate": 1605024000,
+          "grade": 100,
+          "timemodified": 1605103886,
+          "completionsubmit": 1,
+          "cutoffdate": 0,
+          "gradingduedate": 1606233600,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "revealidentities": 0,
+          "attemptreopenmethod": "manual",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "2147483648"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": ""
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            },
+            {
+              "plugin": "editpdf",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            }
+          ],
+          "intro": "",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": [
+            {
+              "filename": "lab2_info.pdf",
+              "filepath": "/",
+              "filesize": 4220727,
+              "fileurl": "https://e3.nycu.edu.tw/webservice/pluginfile.php/710801/mod_assign/introattachment/0/lab2_info.pdf",
+              "timemodified": 1605103887,
+              "mimetype": "application/pdf",
+              "isexternalfile": false
+            }
+          ]
+        },
+        {
+          "id": 33166,
+          "cmid": 141282,
+          "course": 20248,
+          "name": "Homework 2",
+          "nosubmissions": 0,
+          "submissiondrafts": 0,
+          "sendnotifications": 0,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1608825600,
+          "allowsubmissionsfromdate": 1607270400,
+          "grade": 100,
+          "timemodified": 1608881897,
+          "completionsubmit": 1,
+          "cutoffdate": 0,
+          "gradingduedate": 1608480000,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "revealidentities": 0,
+          "attemptreopenmethod": "manual",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "2147483648"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": ""
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            },
+            {
+              "plugin": "editpdf",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            }
+          ],
+          "intro": "",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": [
+            {
+              "filename": "hw2_ans.pdf",
+              "filepath": "/",
+              "filesize": 522985,
+              "fileurl": "https://e3.nycu.edu.tw/webservice/pluginfile.php/724077/mod_assign/introattachment/0/hw2_ans.pdf",
+              "timemodified": 1608881897,
+              "mimetype": "application/pdf",
+              "isexternalfile": false
+            },
+            {
+              "filename": "hw2.pdf",
+              "filepath": "/",
+              "filesize": 97770,
+              "fileurl": "https://e3.nycu.edu.tw/webservice/pluginfile.php/724077/mod_assign/introattachment/0/hw2.pdf",
+              "timemodified": 1607307525,
+              "mimetype": "application/pdf",
+              "isexternalfile": false
+            }
+          ]
+        },
+        {
+          "id": 33894,
+          "cmid": 143710,
+          "course": 20248,
+          "name": "Lab 3",
+          "nosubmissions": 0,
+          "submissiondrafts": 0,
+          "sendnotifications": 0,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1610208000,
+          "allowsubmissionsfromdate": 1608652800,
+          "grade": 100,
+          "timemodified": 1608705994,
+          "completionsubmit": 1,
+          "cutoffdate": 1610467200,
+          "gradingduedate": 1609862400,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "revealidentities": 0,
+          "attemptreopenmethod": "manual",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "2147483648"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": ""
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            },
+            {
+              "plugin": "editpdf",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            }
+          ],
+          "intro": "<p>Video: https://drive.google.com/file/d/1e7vE3GnPpL02ZZo0Ek8L0XKxgZXSdi2A/view?usp=sharing</p>",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": [
+            {
+              "filename": "lab3_info.pdf",
+              "filepath": "/",
+              "filesize": 4294912,
+              "fileurl": "https://e3.nycu.edu.tw/webservice/pluginfile.php/732657/mod_assign/introattachment/0/lab3_info.pdf",
+              "timemodified": 1608705994,
+              "mimetype": "application/pdf",
+              "isexternalfile": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}

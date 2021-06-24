@@ -1,0 +1,52 @@
+{
+  "name": "宇亮穢跡金剛共修會 咒語次數回報系統",
+  "short_name": "咒語次數回報",
+  "description": "宇亮穢跡金剛共修會 咒語次數回報系統",
+  "lang": "zh-Hant-TW",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F3DFBF",
+  "theme_color": "#F3DFBF",
+  "icons": [
+    {
+      "src": "/assets/icons/128.png",
+      "sizes": "128x128",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/icons/128.png",
+      "sizes": "128x128",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/icons/128.png",
+      "sizes": "128x128",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/icons/128.png",
+      "sizes": "128x128",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/icons/128.png",
+      "sizes": "128x128",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/icons/128.png",
+      "sizes": "128x128",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/icons/128.png",
+      "sizes": "128x128",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/icons/128.png",
+      "sizes": "128x128",
+      "type": "image/jpg"
+    }
+  ]
+}

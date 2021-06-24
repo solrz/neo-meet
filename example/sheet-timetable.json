@@ -1,0 +1,119 @@
+{
+  "id": {
+    "$t": "https://spreadsheets.google.com/feeds/list/1I1eiYuE-rjnP-NZJrOD1DD43y8p97VWf9UflDHyEOTs/2/public/values/cokwr"
+  },
+  "updated": {
+    "$t": "2021-04-29T12:31:49.403Z"
+  },
+  "category": [
+    {
+      "scheme": "http://schemas.google.com/spreadsheets/2006",
+      "term": "http://schemas.google.com/spreadsheets/2006#list"
+    }
+  ],
+  "title": {
+    "type": "text",
+    "$t": "1092_0311"
+  },
+  "content": {
+    "type": "text",
+    "$t": "acy: 109, sem: 2, cosid: 311, coscode: DAM1368, numlimit: 120, deplimit: N, coscname: 微積分甲（二）, coscredit: 4, coshours: 4, teacher: 余啟哲, costime: T34F56-SA321, memo: 大班授課, cosename: Calculus (II), degree: 1, depid: OUE, depprimary: 1, depcname: 微積分教學小組, depename: Calculus section, costype: 必修, costypee: Required, crsoutlinetype: data, regnum: 76, deptype: O, depid_2: 49552B82-2C24-4355-AA37-2E503351C46B, depcname_2: 微積分教學小組, depename_2: Calculus section"
+  },
+  "link": [
+    {
+      "rel": "self",
+      "type": "application/atom+xml",
+      "href": "https://spreadsheets.google.com/feeds/list/1I1eiYuE-rjnP-NZJrOD1DD43y8p97VWf9UflDHyEOTs/2/public/values/cokwr"
+    }
+  ],
+  "gsx$id": {
+    "$t": "1092_0311"
+  },
+  "gsx$acy": {
+    "$t": "109"
+  },
+  "gsx$sem": {
+    "$t": "2"
+  },
+  "gsx$cosid": {
+    "$t": "311"
+  },
+  "gsx$coscode": {
+    "$t": "DAM1368"
+  },
+  "gsx$numlimit": {
+    "$t": "120"
+  },
+  "gsx$deplimit": {
+    "$t": "N"
+  },
+  "gsx$url": {
+    "$t": ""
+  },
+  "gsx$coscname": {
+    "$t": "微積分甲（二）"
+  },
+  "gsx$coscredit": {
+    "$t": "4"
+  },
+  "gsx$coshours": {
+    "$t": "4"
+  },
+  "gsx$turl": {
+    "$t": ""
+  },
+  "gsx$teacher": {
+    "$t": "余啟哲"
+  },
+  "gsx$costime": {
+    "$t": "T34F56-SA321"
+  },
+  "gsx$memo": {
+    "$t": "大班授課"
+  },
+  "gsx$cosename": {
+    "$t": "Calculus (II)"
+  },
+  "gsx$brief": {
+    "$t": ""
+  },
+  "gsx$degree": {
+    "$t": "1"
+  },
+  "gsx$depid": {
+    "$t": "OUE"
+  },
+  "gsx$depprimary": {
+    "$t": "1"
+  },
+  "gsx$depcname": {
+    "$t": "微積分教學小組"
+  },
+  "gsx$depename": {
+    "$t": "Calculus section"
+  },
+  "gsx$costype": {
+    "$t": "必修"
+  },
+  "gsx$costypee": {
+    "$t": "Required"
+  },
+  "gsx$crsoutlinetype": {
+    "$t": "data"
+  },
+  "gsx$regnum": {
+    "$t": "76"
+  },
+  "gsx$deptype": {
+    "$t": "O"
+  },
+  "gsx$depid_2": {
+    "$t": "49552B82-2C24-4355-AA37-2E503351C46B"
+  },
+  "gsx$depcname_2": {
+    "$t": "微積分教學小組"
+  },
+  "gsx$depename_2": {
+    "$t": "Calculus section"
+  }
+}
